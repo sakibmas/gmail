@@ -1,4 +1,4 @@
-# Configure Subject-Based Forwarding:
+<img width="119" height="19" alt="image" src="https://github.com/user-attachments/assets/01ddf629-c8b5-4d4d-be8b-564a1b18ce4e" /># Configure Subject-Based Forwarding:
 
 1.  **Add Forwarding Address:** Go to **Settings** (gear icon) > **See all settings** > **Forwarding and POP/IMAP** tab. Click **Add a forwarding address**, enter the email, and verify it via the confirmation email.
     
@@ -9,3 +9,9 @@
 4.  **Set Action:** Click **Create filter**. Check the box **Forward it to:** and select the verified email address.
     
 5.  **Save:** Click **Create filter** to activate the rule.
+
+# Search filter
+
+```
+is:unread
+```
