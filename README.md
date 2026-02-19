@@ -11,7 +11,8 @@
 5.  **Save:** Click **Create filter** to activate the rule.
 
 # Search filter
+ - View only unread email
 
 ```
-is:unread
+  is:unread
 ```
