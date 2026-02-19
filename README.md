@@ -14,12 +14,12 @@
  - View only unread emails
 
 ```
-  is:unread
+   is:unread
 ```
 
  - View archive emails
 
 ```
--in:Sent -in:Draft -in:Inbox has:nouserlabels<img width="322" height="19" alt="image" src="https://github.com/user-attachments/assets/44a08fa2-f2cc-4eca-a414-6441a2972211" />
+   -in:Sent -in:Draft -in:Inbox has:nouserlabels<img width="322" height="19" alt="image" src="https://github.com/user-attachments/assets/44a08fa2-f2cc-4eca-a414-6441a2972211" />
 
 ```
