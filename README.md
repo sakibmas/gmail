@@ -1,4 +1,4 @@
-# Configure Subject-Based Forwarding:
+# Configure Subject-Based Forwarding
 
 1.  **Add Forwarding Address:** Go to **Settings** (gear icon) > **See all settings** > **Forwarding and POP/IMAP** tab. Click **Add a forwarding address**, enter the email, and verify it via the confirmation email.
     
